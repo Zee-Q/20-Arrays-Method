@@ -117,9 +117,7 @@ console.log(reverse)
 
 // .at()
 
-let index
-
-
-console.log(true + false)
+let index = 2
+console.log(arr2.at(index))
 
 

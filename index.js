@@ -75,5 +75,5 @@ let arr2 = [1, 2, 3, 4, 5];
 let reverse = arr2.reverse();
 console.log(reverse);
 // .at()
-let index;
-console.log(true + false);
+let index = 2;
+console.log(arr2.at(index));
